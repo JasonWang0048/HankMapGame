@@ -9,6 +9,7 @@ import android.widget.Button;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
+//    project from teacher
     private static final String TAG = MainActivity.class.getSimpleName();
     private GameView gameView;
 
